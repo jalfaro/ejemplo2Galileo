@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalileoTest2</string>
+    <string name="str_login">Usuario</string>
+    <string name="str_password">Password</string>
+    <string name="str_btn_ingresar">Ingresar</string>
+    <string name="str_login_error">El usuario y password no coinciden</string>
+</resources>
